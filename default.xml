@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".."
+           fetch="fetch="https://android.googlesource.com/" />"
            review="https://android-review.googlesource.com/" />
   <remote  name="jellybean"
   		   fetch="git://github.com/JellyBeanRom/" />
